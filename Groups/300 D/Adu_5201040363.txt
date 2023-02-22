@@ -1,0 +1,6 @@
+1. Software process models are useful instruments used by developers to map each stage of their projects. They support project managers with process planning, cost estimation, problem-solving, and team and customer communication.
+
+2. The main distinction between Agile and Waterfall is that the former promotes iterative development cycles in which many lifecycle phases can operate concurrently, while the latter divides software development into discrete phases that flow into one another.
+
+3. An agile software development methodology is called Rational Unified Process (RUP). The project life cycle is divided into four phases by RUP. All six of the fundamental development disciplines—business modeling, requirements, analysis and design, implementation, testing, and deployment—are used at each step. BENEFITS OF RUP
+RUP may offer teams for software development or design.
